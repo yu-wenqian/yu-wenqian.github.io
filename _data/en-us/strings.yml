@@ -19,6 +19,7 @@ blog:
   navigation_title: blog
 categories:
   fun: fun
+  research: research
   work: work
 citation:
   bibtex: "or as a BibTeX entry:"

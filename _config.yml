@@ -7,7 +7,7 @@ first_name: Wenqian
 middle_name: 
 last_name: Yu
 keywords: ai safety, trustworthy ai, safety alignment, risk evaluation, safeguards, large language models, multimodal ai, agent safety
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: W # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://yu-wenqian.github.io
 baseurl: 

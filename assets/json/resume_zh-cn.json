@@ -1,13 +1,13 @@
 {
   "basics": {
-    "name": "Wenqian Yu",
-    "label": "Ph.D. Student in Data Science, Wuhan University",
+    "name": "俞雯茜",
+    "label": "武汉大学数据科学方向博士生",
     "image": "",
     "email": "2017301750007@whu.edu.cn",
     "url": "https://yu-wenqian.github.io/",
-    "summary": "Ph.D. student working on AI safety, including safety alignment, risk evaluation, and safeguards for LLM-based, multimodal, and agentic AI systems.",
+    "summary": "研究方向为人工智能安全，关注大语言模型、多模态模型以及智能体系统中的安全对齐、风险评估与安全防护机制。",
     "location": {
-      "city": "Wuhan",
+      "city": "武汉",
       "countryCode": "CN"
     },
     "profiles": [
@@ -20,16 +20,16 @@
   },
   "education": [
     {
-      "institution": "Wuhan University",
-      "area": "Data Science",
-      "studyType": "Ph.D.",
+      "institution": "武汉大学",
+      "area": "数据科学",
+      "studyType": "博士",
       "startDate": "2021-08-01",
       "endDate": "2028-07-01"
     },
     {
-      "institution": "Wuhan University",
-      "area": "Printing Engineering",
-      "studyType": "B.Eng.",
+      "institution": "武汉大学",
+      "area": "印刷工程",
+      "studyType": "工学学士",
       "startDate": "2017-08-01",
       "endDate": "2021-07-01",
       "score": "3.7/4.0"
@@ -49,14 +49,14 @@
   ],
   "skills": [
     {
-      "name": "AI Safety",
-      "keywords": ["Safety alignment", "Risk evaluation", "Safeguards", "Multimodal safety", "Agent safety"]
+      "name": "人工智能安全",
+      "keywords": ["安全对齐", "风险评估", "安全防护", "多模态安全", "智能体安全"]
     }
   ],
   "languages": [
     {
-      "language": "English",
-      "fluency": "IELTS 7.5, CET-6 561"
+      "language": "英语",
+      "fluency": "雅思 7.5，CET-6 561"
     }
   ]
 }

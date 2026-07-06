@@ -1,0 +1,59 @@
+- title: 基本信息
+  type: map
+  contents:
+    - name: 姓名
+      value: 俞雯茜
+    - name: 邮箱
+      value: 2017301750007@whu.edu.cn / wenqian_yu@outlook.com
+    - name: 研究兴趣
+      value: 人工智能安全、安全对齐、风险评估、安全防护、多模态安全、智能体安全
+
+- title: 教育经历
+  type: time_table
+  contents:
+    - title: 数据科学，硕博连读
+      institution: 武汉大学
+      year: 2021 - 2028 预计
+      description:
+        - 研究方向为人工智能安全与可信人工智能系统。
+    - title: 计算机科学与技术，辅修
+      institution: 武汉大学
+      year: 2018 - 2019
+    - title: 印刷工程，工学学士
+      institution: 武汉大学
+      year: 2017 - 2021
+      description:
+        - GPA 3.7/4.0，专业排名 3/29。
+        - 相关课程包括数字图像处理、图像质量分析与评价、大数据处理技术、数学模型与优化。
+
+- title: 论文成果
+  type: time_table
+  contents:
+    - title: You Only Need One Single Token to Refine Safety Alignment
+      institution: ACL 2026
+      year: 2026
+      description:
+        - 第一作者。
+    - title: Reimagining Safety Alignment with An Image
+      institution: EMNLP 2025
+      year: 2025
+      description:
+        - 共同第一作者。
+    - title: Reliable Evaluation of Adversarial Transferability
+      institution: SaTML 2025
+      year: 2025
+
+- title: 学术服务与奖励
+  type: time_table
+  contents:
+    - year: 2026
+      items:
+        - ICML 审稿人。
+    - year: 2021 - 至今
+      items:
+        - 获得学业奖学金 4 次。
+
+- title: 语言能力
+  type: list
+  contents:
+    - 英语：雅思 7.5，CET-6 561。

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work "Reliable Evaluation of Adversarial Transferability" appeared at SaTML 2025.
+工作 "Reliable Evaluation of Adversarial Transferability" 发表于 SaTML 2025。

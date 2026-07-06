@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "Reimagining Safety Alignment with An Image" was accepted to EMNLP 2025.
+论文 "Reimagining Safety Alignment with An Image" 被 EMNLP 2025 接收。

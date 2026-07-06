@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-05-01 00:00:00-0000
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our paper "You Only Need One Single Token to Refine Safety Alignment" was accepted to ACL 2026.
