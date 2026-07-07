@@ -4,7 +4,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: Research projects on AI safety.
-nav: true
+nav: false
 nav_order: 3
 display_categories: [research]
 horizontal: false

@@ -4,7 +4,7 @@ layout: page
 title: 项目
 permalink: /projects/
 description: 人工智能安全相关研究项目
-nav: true
+nav: false
 nav_order: 3
 display_categories: [research]
 horizontal: false
