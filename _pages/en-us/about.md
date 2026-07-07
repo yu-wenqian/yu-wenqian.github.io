@@ -29,14 +29,13 @@ latest_posts:
 
 I am a Ph.D. student in Data Science at Wuhan University. My research focuses on AI safety, especially the alignment, evaluation, and safeguards of advanced AI systems in realistic settings.
 
-My recent work explores lightweight safety alignment methods that improve the trade-off between safety and usefulness, with an emphasis on mitigating over-refusal and jailbreak vulnerabilities. I am also interested in moving from static model safety toward safety mechanisms for dynamic AI systems, especially agent and RSI-style systems.
+My recent work explores lightweight safety alignment methods that improve the trade-off between safety and usefulness. I am also interested in moving from static model safety toward safety mechanisms for dynamic AI systems, especially agent and RSI-style systems.
 
 My current research interests include:
 
-- Safety alignment for LLM-based systems
-- Multimodal safety and risk evaluation
-- Safeguards against jailbreaks, over-refusal, and unsafe behaviors
-- Safety mechanisms for agentic and dynamically evolving AI systems
-- Lightweight and cost-efficient alignment methods
+- Lightweight safety alignment
+- Multimodal safety evaluation
+- Safeguards for LLM-based systems
+- Agent and dynamic AI system safety
 
 Before my Ph.D. study, I received my B.Eng. degree in Printing Engineering from Wuhan University, with additional training in Computer Science and Technology.

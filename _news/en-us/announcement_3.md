@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work "Reliable Evaluation of Adversarial Transferability" appeared at SaTML 2025.
+Our paper "Reliable Evaluation of Adversarial Transferability" was accepted to SaTML 2025.
